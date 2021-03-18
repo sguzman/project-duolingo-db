@@ -1,3 +1,3 @@
 \c duolingo;
 
-INSERT INTO duolingo.data.users (id) VALUES (323233417);
+INSERT INTO duolingo.data.users (user) VALUES ('its_me_sguzman');
