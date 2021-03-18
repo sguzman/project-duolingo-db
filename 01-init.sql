@@ -6,5 +6,5 @@ ALTER USER admin WITH PASSWORD 'admin';
 \c duolingo;
 
 CREATE SCHEMA data;
-CREATE SCHEMA timeseries;
+CREATE SCHEMA ts;
 SET TIME ZONE 'PST8PDT';
